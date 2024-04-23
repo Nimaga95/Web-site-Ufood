@@ -1,30 +1,25 @@
-# vue-starter
+## Prerequisites
+- Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm .com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git# Installing-on-Linux)
+- [Node.js](https://nodejs.org/en/) (LTS version recommended)
 
-Kit de départ préconfiguré utilisant [vue-cli](https://cli.vuejs.org/), [ESLint](https://eslint.org/) avec [Prettier](https://prettier.io/) et [Jest](https://jestjs.io/).
-
-## Prérequis
-- Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
-- [Node.js](https://nodejs.org/en/) (version LTS recommandée)
-
-Vérifier que Node est installé avec la commande:
+Verify that Node is installed with the command:
 ```bash
 node -v
 ```
-Vérifier que Node est installé avec la commande:
+Verify that Node is installed with the command:
 ```bash
 npm -v
 ```
 
-## Installation
+## Facility
 
 ```bash
 # install dependencies
 npm install
 ```
 
-## Développement
+## Development
 ```bash
 # serve with hot reload at localhost:8080
 npm run serve
 ```
-
