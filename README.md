@@ -1,6 +1,3 @@
-## Prerequisites
-- Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm .com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git# Installing-on-Linux)
-- [Node.js](https://nodejs.org/en/) (LTS version recommended)
 
 Verify that Node is installed with the command:
 ```bash
